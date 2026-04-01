@@ -58,7 +58,6 @@ st.markdown("""
     @keyframes panSky { 0% { background-position: 0% 50%; } 50% { background-position: 100% 50%; } 100% { background-position: 0% 50%; } }
     .stApp { background-color: #EBF1FF; background-image: linear-gradient(135deg, #FFFFFF, #F0F8FF); background-size: 150% 150%; animation: panSky 90s linear infinite; font-family: 'Plus Jakarta Sans', sans-serif; color: #1A202C; }
     .block-container { padding-top: 1rem; padding-bottom: 2rem; position: relative; z-index: 10; }
-    header { visibility: hidden; }
     .neo-card { background: rgba(255, 255, 255, 0.7); border-radius: 20px; padding: 24px; box-shadow: 0 4px 15px rgba(112, 144, 176, 0.05); margin-bottom: 20px; border: 1px solid rgba(255, 255, 255, 0.8); height: 100%; position: relative; z-index: 10; }
     .purple-card { background: linear-gradient(135deg, #7B61FF 0%, #5A3FFF 100%); border-radius: 20px; padding: 20px; color: white; box-shadow: 0 6px 20px rgba(123, 97, 255, 0.2); margin-bottom: 15px; text-align: center; }
     .accent-green { background: rgba(0, 224, 150, 0.9); color: white; border-radius: 12px; padding: 12px; text-align: center; font-weight: bold; }
