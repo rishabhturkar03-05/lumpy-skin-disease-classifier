@@ -24,25 +24,49 @@ translations = {
         'title': 'LSD Diagnostic System', 'subtitle': 'Check your cattle for Disease in Seconds',
         'description': 'A state-of-the-art diagnostic platform leveraging Convolutional Neural Networks to assess Lumpy Skin Disease severity with high precision.',
         'launch_btn': 'Launch Scanner', 'developed_by': 'Developed by Team A2',
-        'sidebar_title': 'LSD-AI Hub', 'sidebar_cap': 'Veterinary Diagnostics v2.0',
+        'sidebar_title': 'Animal Health Helper  ', 'sidebar_cap': '',
         'upload_prompt': '1. Upload Cattle Image', 'conf_thresh': 'Confidence Threshold',
-        'start_scan': '▶ START DIAGNOSTIC SCAN', 'team_title': 'Team A2'
+        'start_scan': '▶ Check My Cattle ', 'team_title': 'Team A2',
+        'sel_lang': '🌐 Select Language',
+        'tab_up': '📁 Upload', 'tab_cam': '📷 Camera', 'cam_prompt': 'Take a live photo',
+        'adv_set': '', 'main_title': 'Cattle Health Check',
+        'src_data': 'Original Source Data', 'wait_in': 'Awaiting visual input from sidebar...',
+        'dis_ana': 'Disease Analysis', 'sys_idle': 'System idle. Initialize diagnostic sequence.',
+        'hlth_res': 'Health Result', 'det_les': 'Detected Lesions', 'stat_lbl': 'Status: ',
+        'stat_h': 'HEALTHY', 'stat_m': 'MODERATE RISK', 'stat_c': 'CRITICAL RISK',
+        'wait_sess': 'Awaiting session data...', 'what_do': 'What To Do', 'wait_scan': 'Awaiting scan results...'
     },
     'Hindi': {
         'title': 'लम्पी स्किन रोग जांच', 'subtitle': 'नैदानिक पशु चिकित्सा विश्लेषिकी प्रणाली',
         'description': 'लंपी स्किन डिजीज (LSD) की गंभीरता का उच्च सटीकता के साथ आकलन करने के लिए एक अत्याधुनिक डायग्नोस्टिक प्लेटफॉर्म।',
         'launch_btn': 'स्कैनर लॉन्च करें', 'developed_by': 'टीम A2 द्वारा विकसित',
-        'sidebar_title': 'LSD-AI हब', 'sidebar_cap': 'पशु चिकित्सा निदान v2.0',
+        'sidebar_title': 'Cattle Health Check', 'sidebar_cap': 'पशु चिकित्सा निदान ',
         'upload_prompt': '1. मवेशी की छवि अपलोड करें', 'conf_thresh': 'विश्वास सीमा (Threshold)',
-        'start_scan': '▶ डायग्नोस्टिक स्कैन शुरू करें', 'team_title': 'टीम A2'
+        'start_scan': '▶ माझ्या जनावराची तपासणी करा', 'team_title': 'टीम A2',
+        'sel_lang': '🌐 भाषा चुनें',
+        'tab_up': '📁 अपलोड', 'tab_cam': '📷 कैमरा', 'cam_prompt': 'लाइव फोटो लें',
+        'adv_set': '', 'main_title': 'मवेशी स्वास्थ्य जांच',
+        'src_data': 'मूल स्रोत डेटा', 'wait_in': 'साइडबार से विज़ुअल इनपुट की प्रतीक्षा है...',
+        'dis_ana': 'रोग विश्लेषण', 'sys_idle': 'सिस्टम निष्क्रिय है। डायग्नोस्टिक अनुक्रम प्रारंभ करें।',
+        'hlth_res': 'स्वास्थ्य परिणाम', 'det_les': 'पाए गए घाव', 'stat_lbl': 'स्थिति: ',
+        'stat_h': 'स्वस्थ', 'stat_m': 'मध्यम जोखिम', 'stat_c': 'गंभीर जोखिम',
+        'wait_sess': 'सत्र डेटा की प्रतीक्षा है...', 'what_do': 'क्या करें', 'wait_scan': 'स्कैन परिणामों की प्रतीक्षा है...'
     },
     'Marathi': {
         'title': 'लम्पी स्किन रोग तपासणी', 'subtitle': 'क्लिनिकल पशुवैद्यकीय विश्लेषण प्रणाली',
         'description': 'लंपी स्किन डिसीज (LSD) च्या तीव्रतेचे उच्च अचूकतेने मूल्यांकन करण्यासाठी एक अत्याधुनिक डायग्नोस्टिक प्लॅटफॉर्म.',
         'launch_btn': 'स्कॅनर लाँच करा', 'developed_by': 'टीम A2 द्वारे विकसित',
-        'sidebar_title': 'LSD-AI हब', 'sidebar_cap': 'पशुवैद्यकीय निदान v2.0',
+        'sidebar_title': '', 'sidebar_cap': 'पशुवैद्यकीय निदान ',
         'upload_prompt': '1. गुरांची प्रतिमा अपलोड करा', 'conf_thresh': 'विश्वास मर्यादा (Threshold)',
-        'start_scan': '▶ डायग्नोस्टिक स्कॅन सुरू करा', 'team_title': 'टीम A2'
+        'start_scan': '▶ डायग्नोस्टिक स्कॅन सुरू करा', 'team_title': 'टीम A2',
+        'sel_lang': '🌐 भाषा निवडा',
+        'tab_up': '📁 अपलोड करा', 'tab_cam': '📷 कॅमेरा', 'cam_prompt': 'थेट फोटो काढा',
+        'adv_set': '', 'main_title': 'गुरांच्या आरोग्याची तपासणी',
+        'src_data': 'मूळ स्रोत डेटा', 'wait_in': 'साइडबारवरून दृश्य इनपुटची प्रतीक्षा करत आहे...',
+        'dis_ana': 'रोग विश्लेषण', 'sys_idle': 'प्रणाली निष्क्रिय आहे. निदान क्रम सुरू करा.',
+        'hlth_res': 'आरोग्य निकाल', 'det_les': 'आढळलेले फोड', 'stat_lbl': 'स्थिती: ',
+        'stat_h': 'निरोगी', 'stat_m': 'मध्यम धोका', 'stat_c': 'गंभीर धोका',
+        'wait_sess': 'सत्र डेटाची प्रतीक्षा करत आहे...', 'what_do': 'काय करावे', 'wait_scan': 'स्कॅन निकालांची प्रतीक्षा करत आहे...'
     }
 }
 
@@ -58,6 +82,7 @@ st.markdown("""
     @keyframes panSky { 0% { background-position: 0% 50%; } 50% { background-position: 100% 50%; } 100% { background-position: 0% 50%; } }
     .stApp { background-color: #EBF1FF; background-image: linear-gradient(135deg, #FFFFFF, #F0F8FF); background-size: 150% 150%; animation: panSky 90s linear infinite; font-family: 'Plus Jakarta Sans', sans-serif; color: #1A202C; }
     .block-container { padding-top: 1rem; padding-bottom: 2rem; position: relative; z-index: 10; }
+    .stAppDeployButton { display: none; }
     .neo-card { background: rgba(255, 255, 255, 0.7); border-radius: 20px; padding: 24px; box-shadow: 0 4px 15px rgba(112, 144, 176, 0.05); margin-bottom: 20px; border: 1px solid rgba(255, 255, 255, 0.8); height: 100%; position: relative; z-index: 10; }
     .purple-card { background: linear-gradient(135deg, #7B61FF 0%, #5A3FFF 100%); border-radius: 20px; padding: 20px; color: white; box-shadow: 0 6px 20px rgba(123, 97, 255, 0.2); margin-bottom: 15px; text-align: center; }
     .accent-green { background: rgba(0, 224, 150, 0.9); color: white; border-radius: 12px; padding: 12px; text-align: center; font-weight: bold; }
@@ -115,7 +140,7 @@ elif st.session_state.page == 'welcome':
     
     col1, col2, col3 = st.columns([1.5, 1, 1.5])
     with col2:
-        new_lang = st.selectbox("🌐 Select Language", ['English', 'Hindi', 'Marathi'], index=['English', 'Hindi', 'Marathi'].index(st.session_state.language))
+        new_lang = st.selectbox(t['sel_lang'], ['English', 'Hindi', 'Marathi'], index=['English', 'Hindi', 'Marathi'].index(st.session_state.language))
         if new_lang != st.session_state.language:
             st.session_state.language = new_lang
             st.rerun()
@@ -131,10 +156,19 @@ elif st.session_state.page == 'dashboard':
         st.caption(t['sidebar_cap'])
         st.markdown("<br>", unsafe_allow_html=True)
         
-        uploaded_file = st.file_uploader(t['upload_prompt'], type=["jpg", "jpeg", "png"])
+        # --- CAMERA & UPLOAD TABS NOW IN SIDEBAR ---
+        tab1, tab2 = st.tabs([t['tab_up'], t['tab_cam']])
+        
+        with tab1:
+            uploaded_file = st.file_uploader(t['upload_prompt'], type=["jpg", "jpeg", "png"])
+        with tab2:
+            camera_file = st.camera_input(t['cam_prompt'])
+
+        # Capture whichever input the user provides
+        final_input = camera_file or uploaded_file
         
         st.markdown("<hr style='border-top: 1px solid #E2E8F0; margin: 15px 0;'>", unsafe_allow_html=True)
-        show_admin = st.checkbox("")
+        show_admin = st.checkbox(t['adv_set'])
         if show_admin:
             st.session_state.threshold = st.slider(t['conf_thresh'], 0.05, 1.0, st.session_state.threshold, 0.01)
             st.caption(f"Current internal threshold memory: {st.session_state.threshold}")
@@ -147,20 +181,23 @@ elif st.session_state.page == 'dashboard':
         for name in ["Muskan", "Gauri", "Akanksha", "Rishabh", "Shravan"]:
             st.markdown(f"<p style='color: #718096; margin-bottom: 2px; font-weight: 600;'>• {name}</p>", unsafe_allow_html=True)
 
-    st.markdown("<div class='app-title'>Diagnostic Hub</div>", unsafe_allow_html=True)
+    # --- MAIN SCREEN (CLEAN) ---
+    st.markdown(f"<div class='app-title'>{t['main_title']}</div>", unsafe_allow_html=True)
     col_left, col_right = st.columns(2, gap="large")
 
     with col_left:
-        st.markdown("<div class='section-header'>Original Source Data</div>", unsafe_allow_html=True)
-        if uploaded_file:
-            input_img = Image.open(uploaded_file)
+        st.markdown(f"<div class='section-header'>{t['src_data']}</div>", unsafe_allow_html=True)
+        
+        if final_input:
+            input_img = Image.open(final_input)
             st.image(input_img, use_container_width=True)
         else:
-            st.markdown("<div class='neo-card' style='text-align: center; padding: 10px; color: #4A5568;'>Awaiting visual input from sidebar...</div>", unsafe_allow_html=True)
+            st.markdown(f"<div class='neo-card' style='text-align: center; padding: 10px; color: #4A5568;'>{t['wait_in']}</div>", unsafe_allow_html=True)
 
     with col_right:
-        st.markdown("<div class='section-header'>AI Pathological Mapping</div>", unsafe_allow_html=True)
-        if uploaded_file and run_diag:
+        st.markdown(f"<div class='section-header'>{t['dis_ana']}</div>", unsafe_allow_html=True)
+        
+        if final_input and run_diag:
             try:
                 res_img, num_lumps = engine.run_inference(input_img, st.session_state.threshold) 
                 st.image(res_img, channels="BGR", use_container_width=True)
@@ -168,35 +205,35 @@ elif st.session_state.page == 'dashboard':
                 st.error(f"Error executing AI inference: {e}")
                 num_lumps = None
         else:
-            st.markdown("<div class='neo-card' style='text-align: center; padding: 10px; color: #4A5568;'>System idle. Initialize diagnostic sequence.</div>", unsafe_allow_html=True)
+            st.markdown(f"<div class='neo-card' style='text-align: center; padding: 10px; color: #4A5568;'>{t['sys_idle']}</div>", unsafe_allow_html=True)
             num_lumps = None 
             
     st.markdown("<br>", unsafe_allow_html=True)
     col_report, col_act = st.columns([1, 2], gap="large")
-
+    
     with col_report:
-        st.markdown("<div class='section-header'>Diagnostic Report</div>", unsafe_allow_html=True)
+        st.markdown(f"<div class='section-header'>{t['hlth_res']}</div>", unsafe_allow_html=True)
         if num_lumps is not None:
             color = "#7EE787" if num_lumps <= 1 else ("#FFD166" if num_lumps < 10 else "#FF5A5A")
-            status = "HEALTHY" if num_lumps <= 1 else ("MODERATE RISK" if num_lumps < 10 else "CRITICAL RISK")
+            status = t['stat_h'] if num_lumps <= 1 else (t['stat_m'] if num_lumps < 10 else t['stat_c'])
             report_html = f"""
             <div class='neo-card'>
                 <div class='purple-card'>
                     <h1 style='margin:0; font-size:42px;'>{num_lumps}</h1>
-                    <p style='margin:0; font-size:12px; opacity:0.9;'>Detected Lesions</p>
+                    <p style='margin:0; font-size:12px; opacity:0.9;'>{t['det_les']}</p>
                 </div>
-                <div class='accent-green' style='background:{color}; color:black;'>Status: {status}</div>
+                <div class='accent-green' style='background:{color}; color:black;'>{t['stat_lbl']}{status}</div>
             </div>
             """
             st.markdown(report_html, unsafe_allow_html=True)
         else:
-            st.markdown("<div class='neo-card'>Awaiting session data...</div>", unsafe_allow_html=True)
+            st.markdown(f"<div class='neo-card'>{t['wait_sess']}</div>", unsafe_allow_html=True)
 
     with col_act:
-        st.markdown("<div class='section-header'>Veterinary Action Plan</div>", unsafe_allow_html=True)
+        st.markdown(f"<div class='section-header'>{t['what_do']}</div>", unsafe_allow_html=True)
         if num_lumps is not None:
             advice = engine.get_medical_advice(num_lumps, st.session_state.language)
             text_color = "#1B5E20" if num_lumps <= 1 else ("#B7791F" if num_lumps < 10 else "#C53030")
             st.markdown(f"<div class='neo-card' style='border-left: 10px solid {text_color}; min-height:200px; display:flex; align-items:center;'><h2 style='color:{text_color}; padding:20px;'>{advice}</h2></div>", unsafe_allow_html=True)
         else:
-            st.markdown("<div class='neo-card'>Awaiting scan results...</div>", unsafe_allow_html=True)
+            st.markdown(f"<div class='neo-card'>{t['wait_scan']}</div>", unsafe_allow_html=True)
