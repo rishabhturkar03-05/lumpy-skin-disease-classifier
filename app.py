@@ -17,7 +17,7 @@ engine = DiagnosticEngine(model_path='best.pt')
 # --- INITIALIZE SESSION STATE ---
 if 'page' not in st.session_state: st.session_state.page = 'welcome'
 if 'loading' not in st.session_state: st.session_state.loading = False
-if 'threshold' not in st.session_state: st.session_state.threshold = 0.10
+if 'threshold' not in st.session_state: st.session_state.threshold = 0.06
 if 'language' not in st.session_state: st.session_state.language = 'English'
 
 def trigger_loading():
